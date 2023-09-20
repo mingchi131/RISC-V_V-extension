@@ -1,0 +1,16 @@
+../src/alu.v
+../src/decoder.v
+../src/dut.v
+../src/execute.v
+../src/instruction_fetch.v
+../src/mem.v
+../src/memory.v
+../src/pc.v
+../src/scalar_reg.v
+../src/vector_reg.v
+../src/vector_top.v
+../src/write_back.v
+../src/wallace_tree.v
+../src/adder.v
+../src/mac.v
+
